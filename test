@@ -1,0 +1,2 @@
+$ curl -X POST --data "reference=the text of the reference" \
+  http://cermine.ceon.pl/parse.do
